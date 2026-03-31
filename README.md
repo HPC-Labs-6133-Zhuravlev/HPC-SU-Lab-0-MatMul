@@ -39,6 +39,12 @@
 - **NVIDIA Tesla T4**
 - **Python + matplotlib + pandas** для построения таблицы и графиков
 
+## Ссылка на Google Colab
+
+Ноутбук с полной реализацией и всеми ячейками для компиляции доступен по ссылке:
+
+[Открыть notebook в Google Colab](https://colab.research.google.com/drive/1SwqsLEBkjYBZRGfbnzR1p1huomF-Qyo1?usp=sharing)
+
 ## Описание реализации
 
 Программа состоит из двух основных реализаций умножения матриц:
